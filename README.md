@@ -2,7 +2,7 @@
 <h2 align="center"> Bienvenid@s a mi GitHub!! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h2>
 <h3 align="center">Soy un Desarrollador Web Full Stack egresado en Henry. Tengo un compromiso y responsabilidad con mis funciones, proactivo, sociable y con habilidad para crear soluciones prácticas a cualquier situación. He trabajado en proyectos grupales donde me he desenvuelto bien trabajando en equipo y en proyectos  individuales, mejorando mis habilidades blandas y duras.</h3>
 
-- 📫 How to reach me **velazquezagus16@hotmail.com**
+- 📫 Contacta conmigo **velazquezagus16@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
