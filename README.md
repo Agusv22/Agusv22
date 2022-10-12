@@ -2,6 +2,25 @@
 <h2 align="center"> Bienvenid@s a mi GitHub!! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" /> </h2>
 <h3 align="center">Soy un Desarrollador Web Full Stack egresado en Henry. Tengo un compromiso y responsabilidad con mis funciones, proactivo, sociable y con habilidad para crear soluciones prácticas a cualquier situación. He trabajado en proyectos grupales donde me he desenvuelto bien trabajando en equipo y en proyectos  individuales, mejorando mis habilidades blandas y duras.</h3>
 
+<h3 align="left">Mis últimos proyectos son: </h3>
+
+<h3> Proyecto Grupal: </h3>
+Kustoms-Sports es un E-commerce en donde el objetivo principal de dicha pagina era vender productos deportivos de todo tipo, de una manera sencilla, rápida y bonita para el cliente.
+En este proyecto trabajé junto a 6 compañeros más en el desarrollo y diseño de esta aplicación web, en la cual me destaque en el trabajo del back end , ejercí tareas como el armado de algunas rutas como por ejemplo ruta de dashboard upgrade de usuario a admin, ruta de perfil de usuario, implementación de chatbot, armado de json, carga de productos y demas tareas que fuimos trabajando individualmente/grupalmente. Disfrute y aprendí mucho de este proyecto ya que era un grupo muy unido en donde nos ayudabamos e hicieron de este el funcionamiento de Kustoms Sports.
+
+<h2>Visite la página!<h3> <a href="https://kustoms-sports.vercel.app/" /> https://kustoms-sports.vercel.app/</h3></h2>
+
+<h3> Proyecto Individual: </h3>
+En este E-commerce tuve que realizar una aplicación web de recetas de comida, en la cual podias buscar tu comida según el tipo de dieta que quisieras, el nivel de calorias, por orden alfabético o por búsqueda y crear una o varias de tus recetas favoritas para compartilas con otras personas .
+
+El objetivo era
+* Diseñar y desarrollar una Web App de Recetas que incluya: Búsqueda por coincidencia, filtros, ordenamientos, paginación y consume Spoonacular API para traer cierta     cantidad de recetas. 
+* Con función extra de crear una receta y publicarla en la app.
+
+* La App fue desarrollada usando React, Redux y CSS puro para Front-end. Además, fue desarrollado con Node js, Express, PostgreSQL y Sequelize para Back-end.
+
+<h3>Repositorio del proyecto -><a href="https://github.com/Agusv22/PI-Food-Main" /> https://pi-food-main-two.vercel.app/</h3></h3>
+
 - 📫 Contacta conmigo **velazquezagus16@hotmail.com**
 <p align="left">
 <a href="https://www.linkedin.com/in/agustin-tomas-velazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/agustin-tomas-velazquez-1b2173245" height="30" width="40" /></a>
