@@ -19,7 +19,7 @@ El objetivo era
 
 * La App fue desarrollada usando React, Redux y CSS puro para Front-end. Además, fue desarrollado con Node js, Express, PostgreSQL y Sequelize para Back-end.
 
-<h3> Visita la página -> https://pi-food-main-two.vercel.app/ </h3>
+<h3> Visita la página -><a href="https://pi-food-main-two.vercel.app/" /> https://pi-food-main-two.vercel.app/ </h3>
 
 
 
